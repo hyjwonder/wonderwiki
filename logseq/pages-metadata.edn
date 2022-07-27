@@ -43,6 +43,9 @@
  {:block/name "logseq",
   :block/created-at 1658926169282,
   :block/updated-at 1658926169282}
+ {:block/name "logseq dev theme",
+  :block/created-at 1658930831921,
+  :block/updated-at 1658930831921}
  {:block/name "logseq theme",
   :block/created-at 1658926169267,
   :block/updated-at 1658926169267}
